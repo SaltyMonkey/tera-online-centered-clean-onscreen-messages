@@ -1,11 +1,11 @@
 {
     "disableAutoUpdate" : false,
-    "name" : "Centered clear onscreen messages",
+    "name" : "Clear onscreen messages (centered messages)",
     "category" : "client",
     "author" : "SaltyMonkey",
     "options" : {
-        "guiName" : "Centered clear screen",
-        "niceName" : "Centered clear screen"
+        "guiName" : "Clear screen (centered messages)",
+        "niceName" : "Clear screen (centered messages)"
     },
     "servers" : [
         "https://raw.githubusercontent.com/SaltyMonkey/tera-online-centered-clean-onscreen-messages/master/"
